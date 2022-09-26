@@ -1,3 +1,3 @@
 # vr-echizen-cityhall
  
-https://digitaltwi-echizen.github.io/vr-echizen-cityhall/
+https://digitaltwin-echizen.github.io/vr-echizen-cityhall/
